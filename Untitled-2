@@ -1,0 +1,1 @@
+curl -X  PUT 'https://app.salsify.com/api/v1/orgs/s-ad7fef34-3bc9-4661-a9e1-c8af40c78ea2/products/_upsert' -H 'authorization: Bearer e6b30f3b779693421e6cd013a782fbfc71332b3bb09bcba99bc9f06793941cd1' -H 'Content-Type: application/json' -d ~/Documents/test_upsert_body.json
